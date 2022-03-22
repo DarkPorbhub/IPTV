@@ -119,7 +119,3 @@ http://192.168.50.1:8080/rtp/239.3.1.165:8001
 http://192.168.50.1:8080/rtp/239.3.1.250:8001 
 #EXTINF:-1,4K超清
 http://192.168.50.1:8080/rtp/239.3.1.249:8001
-#EXTINF:-1,RT News
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1,RT Docu
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
