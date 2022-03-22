@@ -7,3 +7,13 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 https://al-pull2.hkatv.vip/live/phoenixCC.m3u8
 #EXTINF:-1,凤凰资讯
 https://al-pull2.hkatv.vip/live/phoenixPIN.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/sjdl.png" group-title="数字",CCTV世界地理
+http://[2001:250:4801::430:89]/hls/hls184a515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/bqkj.png" group-title="数字",CCTV兵器科技
+http://[2001:250:4801::430:89]/hls/hls184a573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/ystq.png" group-title="数字",CCTV央视台球
+http://[2001:250:4801::430:89]/hls/hls184a574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/nxss.png" group-title="数字",CCTV女性时尚
+http://[2001:250:4801::430:89]/hls/hls184a522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.cn/web/images/channels/whjp.png" group-title="数字",CCTV文化精品
+http://[2001:250:4801::430:89]/hls/hls184a520.m3u8
