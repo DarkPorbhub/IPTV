@@ -121,7 +121,5 @@ http://192.168.50.1:8080/rtp/239.3.1.250:8001
 https://rt-rtd.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1,Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1,BBC News
-https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1,France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
