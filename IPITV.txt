@@ -28,7 +28,6 @@ CCTV-4K，http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 北京财经，http://192.168.50.1:8080/rtp/239.3.1.116:8000
 北京生活，http://192.168.50.1:8080/rtp/239.3.1.117:8000
 北京青年，http://192.168.50.1:8080/rtp/239.3.1.118:8000
-冬奥纪实，https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
 卡酷少儿，http://192.168.50.1:8080/rtp/239.3.1.189:8000
 湖南卫视，http://192.168.50.1:8080/rtp/239.3.1.132:8012
 浙江卫视，http://192.168.50.1:8080/rtp/239.3.1.137:8036
@@ -57,4 +56,5 @@ CCTV-4K，http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 茶友频道，http://192.168.50.1:8080/rtp/239.3.1.165:8001
 快乐垂钓，http://192.168.50.1:8080/rtp/239.3.1.164:8001
 电影频道，http://192.168.50.1:8080/rtp/239.3.1.250:8001 
-RT News，https://rt-rtd.rttv.com/live/rtnews/playlist.m3u8
+今日罗斯，https://rt-rtd.rttv.com/live/rtnews/playlist.m3u8 
+罗斯纪实，https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8 
