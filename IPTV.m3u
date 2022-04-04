@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml”
+#EXTM3U
 #EXTINF:-1,tvg-name="CCTV1",CCTV-1 
 http://192.168.50.1:8080/rtp/239.3.1.129:8008
 #EXTINF:-1,tvg-name="CCTV2",CCTV-2
